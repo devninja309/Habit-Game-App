@@ -1,0 +1,40 @@
+<svg
+  width="28"
+  height="29"
+  viewBox="0 0 28 29"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+    <path
+    d="M13.5771 14.9195L19.187 9.30957"
+    stroke="#C0FF00"
+    stroke-width="2"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+    <path
+    d="M26.6669 5.56964H22.9269V1.82971L19.187 5.56964V9.30956H22.9269L26.6669 5.56964Z"
+    stroke="#C0FF00"
+    stroke-width="2"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+    <path
+    d="M13.5772 20.5293C16.6754 20.5293 19.1871 18.0177 19.1871 14.9195C19.1871 11.8212 16.6754 9.30957 13.5772 9.30957C10.4789 9.30957 7.96729 11.8212 7.96729 14.9195C7.96729 18.0177 10.4789 20.5293 13.5772 20.5293Z"
+    stroke="#C0FF00"
+    stroke-width="2"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+    <path
+    d="M23.8619 8.3746C25.0774 10.2446 25.7319 12.4885 25.7319 14.9195C25.7319 21.6513 20.309 27.0742 13.5771 27.0742C6.84525 27.0742 1.42236 21.6513 1.42236 14.9195C1.42236 8.1876 6.84525 2.76471 13.5771 2.76471C16.0081 2.76471 18.252 3.4192 20.122 4.63467"
+    stroke="#C0FF00"
+    stroke-width="2"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+    </svg>
